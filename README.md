@@ -1,4 +1,4 @@
 # apnacollege-demo
 test git repo
 <br>
-Auther - Puneeth Kumar
+Author - Puneeth Kumar
